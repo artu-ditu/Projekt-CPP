@@ -1,0 +1,13 @@
+Zbrojni
+7000
+	21-12-2011	fantasy	311	29.99
+Terry
+Pratchett
+	1948	m
+
+Straz! Straz!
+9000
+	14-02-2010	fantasy	282	29.99
+Terry
+Pratchett
+	1948	m

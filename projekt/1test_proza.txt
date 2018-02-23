@@ -1,0 +1,23 @@
+Hyperion
+	26-11-2007	science-fiction	624	34.43
+Dan
+Simmons
+	1948	m
+
+Upadek Hyperiona
+	27-06-2008	science-fiction	720	34.43
+Dan
+Simmons
+	1948	m
+
+Droga Krolow
+	30-04-2014	fantasy	960	45.09
+Brandon
+Sanderson
+	1975	m
+
+Slowa Swiatlosci
+	03-12-2014	fantasy	960	45.09
+Brandon
+Sanderson
+	1975	m
